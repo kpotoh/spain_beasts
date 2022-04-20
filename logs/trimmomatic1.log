@@ -1,0 +1,9 @@
+mr@Smith:~/kurchatnik$ trimmomatic PE -threads 4 data/raw/ВГС\ кант1V350045595_L04_81_1.fq.gz data/raw/ВГС\ кант1V350045595_L04_81_2.fq.gz data/output1_forward_paired.fq.gz data/output1_forward_unpaired.fq.gz data/output1_reverse_paired.fq.gz data/output1_reverse_unpaired.fq.gz ILLUMINACLIP:data/external/adapters.fa:2:30:10:2:True LEADING:3 TRAILING:3 MINLEN:36
+TrimmomaticPE: Started with arguments:
+ -threads 4 data/raw/ВГС кант1V350045595_L04_81_1.fq.gz data/raw/ВГС кант1V350045595_L04_81_2.fq.gz data/output1_forward_paired.fq.gz data/output1_forward_unpaired.fq.gz data/output1_reverse_paired.fq.gz data/output1_reverse_unpaired.fq.gz ILLUMINACLIP:data/external/adapters.fa:2:30:10:2:True LEADING:3 TRAILING:3 MINLEN:36
+Using Long Clipping Sequence: 'AAGTCGGATCGTAGCCATGTCGTTCTGTGAGCCAAGGAGTTG'
+Using Long Clipping Sequence: 'AAGTCGGAGGCCAAGCGGTCTTAGGAAGACAA'
+ILLUMINACLIP: Using 0 prefix pairs, 2 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Quality encoding detected as phred33
+Input Read Pairs: 23838883 Both Surviving: 23819528 (99.92%) Forward Only Surviving: 1217 (0.01%) Reverse Only Surviving: 3939 (0.02%) Dropped: 14199 (0.06%)
+TrimmomaticPE: Completed successfully
