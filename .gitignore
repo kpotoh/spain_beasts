@@ -1,5 +1,6 @@
 data/*
 !data/external
+!data/QC
 *.pptx
 *.pdf
 data/wgs_quality.tsv

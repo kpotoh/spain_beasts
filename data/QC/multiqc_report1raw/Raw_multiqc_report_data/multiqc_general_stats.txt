@@ -1,0 +1,5 @@
+Sample	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+ВГС кант1V350045595_L04_81_1	23.17636862986899	42.0	150.0	10.0	23838883.0
+ВГС кант1V350045595_L04_81_2	17.642742819237583	43.0	150.0	10.0	23838883.0
+ВГС кант2V350045595_L04_82_1	41.11600727060463	68.0	150.0	10.0	11488288.0
+ВГС кант2V350045595_L04_82_2	28.533129285959774	68.0	150.0	10.0	11488288.0

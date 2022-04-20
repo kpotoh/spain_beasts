@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	ВГС кант2V350045595_L04_82_1	/home/mr/kurchatnik/data/fastqc_report1raw/ВГС кант2V350045595_L04_82_1_fastqc.zip
+FastQC	all_sections	ВГС кант1V350045595_L04_81_1	/home/mr/kurchatnik/data/fastqc_report1raw/ВГС кант1V350045595_L04_81_1_fastqc.zip
+FastQC	all_sections	ВГС кант2V350045595_L04_82_2	/home/mr/kurchatnik/data/fastqc_report1raw/ВГС кант2V350045595_L04_82_2_fastqc.zip
+FastQC	all_sections	ВГС кант1V350045595_L04_81_2	/home/mr/kurchatnik/data/fastqc_report1raw/ВГС кант1V350045595_L04_81_2_fastqc.zip

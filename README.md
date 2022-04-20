@@ -33,5 +33,4 @@ AAGTCGGATCGTAGCCATGTCGTTCTGTGAGCCAAGGAGTTG<br>
 - [fastqc](https://www.bioinformatics.babraham.ac.uk/projects/download.html#fastqc)
 - [muttiqc](https://multiqc.info/)
 - [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)
-
-	
+- [SPAdes](https://cab.spbu.ru/software/spades/)
