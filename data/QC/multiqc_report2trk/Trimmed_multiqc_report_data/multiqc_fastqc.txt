@@ -1,0 +1,9 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+kant1_f_pa	kant1_f_pa.fq.gz	Conventional base calls	Sanger / Illumina 1.9	12851013.0	0.0	50-150	41.0	82.77645192759405	141.6436097294431	pass	pass	pass	pass	fail	pass	warn	pass	pass	pass
+kant1_f_unp	kant1_f_unp.fq.gz	Conventional base calls	Sanger / Illumina 1.9	6627897.0	0.0	50-150	48.0	88.13898067426045	124.36036634244618	pass	pass	pass	pass	fail	pass	warn	pass	pass	pass
+kant1_r_pa	kant1_r_pa.fq.gz	Conventional base calls	Sanger / Illumina 1.9	12851013.0	0.0	50-150	40.0	84.08862811397279	133.50989855819148	pass	pass	pass	pass	fail	pass	warn	pass	pass	pass
+kant1_r_unp	kant1_r_unp.fq.gz	Conventional base calls	Sanger / Illumina 1.9	1139930.0	0.0	50-150	33.0	94.91201809766982	122.35956593825937	pass	pass	pass	pass	fail	pass	warn	pass	pass	pass
+kant2_f_pa	kant2_f_pa.fq.gz	Conventional base calls	Sanger / Illumina 1.9	5339252.0	0.0	50-150	66.0	73.5640694737321	140.21646515279667	pass	pass	pass	warn	fail	pass	warn	pass	pass	pass
+kant2_f_unp	kant2_f_unp.fq.gz	Conventional base calls	Sanger / Illumina 1.9	4646889.0	0.0	50-150	69.0	78.9660375626973	123.52757920406535	pass	pass	pass	warn	fail	pass	warn	pass	pass	pass
+kant2_r_pa	kant2_r_pa.fq.gz	Conventional base calls	Sanger / Illumina 1.9	5339252.0	0.0	50-150	65.0	76.56652080519892	125.72638227227334	pass	pass	pass	pass	fail	pass	warn	pass	pass	pass
+kant2_r_unp	kant2_r_unp.fq.gz	Conventional base calls	Sanger / Illumina 1.9	245104.0	0.0	50-150	62.0	97.36919689270324	112.64409393563548	pass	pass	pass	pass	fail	pass	warn	pass	warn	pass

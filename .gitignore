@@ -4,3 +4,5 @@ data/*
 *.pptx
 *.pdf
 data/wgs_quality.tsv
+*.tar*
+*.zip

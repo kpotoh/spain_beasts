@@ -34,3 +34,4 @@ AAGTCGGATCGTAGCCATGTCGTTCTGTGAGCCAAGGAGTTG<br>
 - [muttiqc](https://multiqc.info/)
 - [trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)
 - [SPAdes](https://cab.spbu.ru/software/spades/)
+- [QUAST](http://quast.sourceforge.net/install.html)

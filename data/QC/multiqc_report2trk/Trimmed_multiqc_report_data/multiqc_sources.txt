@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	kant2_f_pa	/mnt/lustre/kpotoh/spain_beasts/data/QC/fastqc_report2trk/kant2_f_pa_fastqc.zip
+FastQC	all_sections	kant1_r_unp	/mnt/lustre/kpotoh/spain_beasts/data/QC/fastqc_report2trk/kant1_r_unp_fastqc.zip
+FastQC	all_sections	kant2_r_unp	/mnt/lustre/kpotoh/spain_beasts/data/QC/fastqc_report2trk/kant2_r_unp_fastqc.zip
+FastQC	all_sections	kant1_f_pa	/mnt/lustre/kpotoh/spain_beasts/data/QC/fastqc_report2trk/kant1_f_pa_fastqc.zip
+FastQC	all_sections	kant2_f_unp	/mnt/lustre/kpotoh/spain_beasts/data/QC/fastqc_report2trk/kant2_f_unp_fastqc.zip
+FastQC	all_sections	kant1_r_pa	/mnt/lustre/kpotoh/spain_beasts/data/QC/fastqc_report2trk/kant1_r_pa_fastqc.zip
+FastQC	all_sections	kant1_f_unp	/mnt/lustre/kpotoh/spain_beasts/data/QC/fastqc_report2trk/kant1_f_unp_fastqc.zip
+FastQC	all_sections	kant2_r_pa	/mnt/lustre/kpotoh/spain_beasts/data/QC/fastqc_report2trk/kant2_r_pa_fastqc.zip
